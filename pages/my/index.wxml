@@ -1,2 +1,2 @@
-<!--pages/my/index.wxml-->
-<text>我的</text>
+<!-- pages/my/index.wxml -->
+<button type="primary">按钮</button>
